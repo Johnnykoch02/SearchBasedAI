@@ -17,4 +17,4 @@ ex. a row entered: 3, 0, 2 corresponds to the row in the tile board with the 3 t
 
 9. Enter CRTL+C to exit the program.
 
-### Jonathan Koch U25318998
+### Jonathan Koch

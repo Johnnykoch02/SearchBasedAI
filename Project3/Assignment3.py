@@ -1,4 +1,4 @@
-''' Jonathan Koch U25318998
+''' Jonathan Koch
 Program Implements A* Pathfinding Algorithm to solve the 8-Tile Game.
 '''
 

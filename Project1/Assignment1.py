@@ -1,4 +1,4 @@
-''' Jonathan Koch U25318998
+''' Jonathan Koch
 Program Implements Weighted Directed Graph and Performs Uninformed Search from node start to node end and returns the path.
 '''
 from heap_queue import HeapQueue

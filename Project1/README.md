@@ -17,4 +17,4 @@ ex. a row entered: 3, 4, 2 corresponds to creating a link from node ID 3 to node
 infinity if the path does not exist.
 8. Since the main loop will continue indefinetly, to quit the program enter CTRL+C
 
-### Jonathan Koch U25318998
+### Jonathan Koch
